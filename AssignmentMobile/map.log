@@ -1,0 +1,348 @@
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00913: too many values
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00913: too many values
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:statement created to getPurchaseId
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-02289: sequence does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:statement created to getPurchaseId
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:result object get created
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:generated id is: 1001
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:resultset closed
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:statement closed
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement created to getPurchaseId
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:result object get created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:generated id is: 1020
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:resultset closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement created to getPurchaseId
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:result object get created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:generated id is: 1022
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:resultset closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement created to getPurchaseId
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:result object get created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:generated id is: 1023
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:resultset closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement created to getPurchaseId
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:result object get created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:generated id is: 1024
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:resultset closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007081) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007081) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement created to getPurchaseId
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:result object get created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:generated id is: 1027
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:resultset closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement created to getPurchaseId
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:result object get created
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:generated id is: 1028
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:resultset closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDaoImpl:connection closed
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.presentaion.UIClass:Before hitting the service layer
+2019-01-18-main-INFO -com.cg.map.presentaion.UIClass:Before hitting the service layer
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00917: missing comma
+
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-19-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-19-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-19-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:in add Customer method
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-19-main-DEBUG-com.cg.map.dao.MapDaoImpl:statement object created
+2019-01-19-main-INFO -com.cg.map.dao.MapDaoImpl:execute update called

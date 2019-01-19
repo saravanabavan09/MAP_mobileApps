@@ -1,0 +1,21 @@
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add patients method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add patients method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add patients method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add patients method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in add patients method
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:connection object created
+2019-01-16-main-ERROR-com.cg.map.dao.MapDaoImpl:ORA-00942: table or view does not exist
+
+2019-01-16-main-INFO -com.cg.map.dao.MapDaoImpl:in finally block
